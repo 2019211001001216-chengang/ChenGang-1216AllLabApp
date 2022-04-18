@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChenGang-1216AllLabApp", "ChenGang-1216AllLabApp\ChenGang-1216AllLabApp.csproj", "{CE66B62E-2208-4D67-A3F9-6E8C5DF93A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAss2", "LabAss2\LabAss2.csproj", "{B4C237C0-49F5-44B3-9B77-70EA55A27BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE66B62E-2208-4D67-A3F9-6E8C5DF93A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE66B62E-2208-4D67-A3F9-6E8C5DF93A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE66B62E-2208-4D67-A3F9-6E8C5DF93A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE66B62E-2208-4D67-A3F9-6E8C5DF93A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C237C0-49F5-44B3-9B77-70EA55A27BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C237C0-49F5-44B3-9B77-70EA55A27BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C237C0-49F5-44B3-9B77-70EA55A27BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C237C0-49F5-44B3-9B77-70EA55A27BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29F9C4A-666D-46B3-BB07-1D933FB104CA}
+	EndGlobalSection
+EndGlobal

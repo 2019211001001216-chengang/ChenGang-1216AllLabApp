@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Customer] ([Id], [CustomerName], [Country], [Gender], [Hobby], [Married]) VALUES (NULL, NULL, NULL, NULL, NULL, NULL)
